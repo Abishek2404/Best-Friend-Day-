@@ -1,0 +1,6 @@
+{
+  "name": "Why You're My Best Friend",
+  "description": "A heartfelt interactive gift for Best Friend Day with flip cards, secret messages, and celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
